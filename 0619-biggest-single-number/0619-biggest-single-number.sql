@@ -1,9 +1,7 @@
-# Write your MySQL query statement below
-SELECT COALESCE((
-    SELECT MAX(num)
+-- Write your PostgreSQL query statement below
+SELECT MAX(num) FILTER(WHERE cnt = 1) AS num
+FROM (
+    SELECT num, COUNT(*) AS cnt
     FROM MyNumbers
     GROUP BY num
-    HAVING COUNT(num)=1
-    ORDER BY num DESC
-    LIMIT 1
-), NULL) AS num;
+) t;
