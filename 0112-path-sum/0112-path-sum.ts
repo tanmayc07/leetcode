@@ -23,8 +23,10 @@ function hasPathSum(root: TreeNode | null, targetSum: number): boolean {
     while(st.length > 0) {
         let [node, sm] = st.pop();
 
-        if(node.left === null && node.right === null && sm === targetSum) 
+        if(node.left === null && node.right === null && sm === targetSum) {
             res = true;
+            break;
+        }
         else {
             if(node.left !== null) st.push([node.left, sm+node.left.val]);
             if(node.right !== null) st.push([node.right, sm+node.right.val]);
