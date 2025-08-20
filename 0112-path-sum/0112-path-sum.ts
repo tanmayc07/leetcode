@@ -15,23 +15,18 @@
 function hasPathSum(root: TreeNode | null, targetSum: number): boolean {
     if(!root) return false;
     
-    let st: [TreeNode, number][] = [];
-    let res: boolean = false;
-
-    st.push([root, root.val]);
-
-    while(st.length > 0) {
-        let [node, sm] = st.pop();
-
-        if(node.left === null && node.right === null && sm === targetSum) {
-            res = true;
-            break;
+    let dfs = (node: TreeNode, sm: number): boolean => {
+        if(node !== null) {
+            if(node.left === null && node.right === null)
+                return sm === targetSum;
+            else {
+                let leftHas = node.left ? dfs(node.left, sm + node.left.val) : false;
+                let rightHas = node.right ? dfs(node.right, sm + node.right.val) : false;
+                return leftHas || rightHas;
+            }
         }
-        else {
-            if(node.left !== null) st.push([node.left, sm+node.left.val]);
-            if(node.right !== null) st.push([node.right, sm+node.right.val]);
-        }
+        return false;
     }
 
-    return res;
+    return dfs(root, root.val);
 };
