@@ -10,7 +10,10 @@ class TimeMap:
             self.m[key].append((value, timestamp))
 
     def get(self, key: str, timestamp: int) -> str:
-        arr = self.m[key]
+        if key in self.m:
+            arr = self.m[key]
+        else:
+            return ""
         start, end = 0, len(arr)-1
         res = ''
 
