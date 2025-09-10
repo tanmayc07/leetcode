@@ -11,11 +11,33 @@
  */
 
 function isPalindrome(head: ListNode | null): boolean {
+    let slow = head;
+    let fast = head;
+
+    // find the middle
+    while (fast && fast.next) {
+        fast = fast.next.next;
+        slow = slow.next;
+    }
+
+    // reverse the second half
+    let curr = slow;
+    let prev = null;
+    while (curr) {
+        let temp = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = temp;
+    }
+
+    // Compare first half and second half
     let start = head;
-    let res = "";
-    while (start) {
-        res += start.val;
+    while (prev) {
+        if (prev.val !== start.val) return false;
+        // console.log(`${prev.val} ${start.val}`);
+        prev = prev.next;
         start = start.next;
     }
-    return res.split('').reverse().join('') === res;
+
+    return true;
 };
