@@ -1,27 +1,34 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        i, j, mp, rl = 0, 0, {}, 10**5
-        res = ""
+        if not s or not t or len(s) < len(t):
+            return ""
+        left = 0
+        target_map = Counter(t)
+        window_map = Counter()
+        formed = 0
+        min_len = (len(s), 0, 0)
+        result = ""
 
-        for ind in t:
-            mp[ind] = mp.get(ind, 0) + 1
-        
-        cnt = len(mp)
-        while j<len(s):
-            if s[j] in mp:
-                mp[s[j]]-=1
-                if mp[s[j]] == 0:
-                    cnt -= 1
+        for right in range(len(s)):
+            window_map[s[right]] += 1
+
+            if window_map[s[right]] == target_map[s[right]]:
+                formed += 1
             
-            while cnt==0:
-                if j-i+1 < rl:
-                    rl = min(rl, j-i+1)
-                    res = s[i:j+1]
+            while formed == len(target_map):
+                if right-left+1 < min_len[0]:
+                    min_len = (right-left+1, left, right)
 
-                if s[i] in mp:
-                    mp[s[i]]+=1
-                    if mp[s[i]]>0:
-                        cnt+=1
-                i+=1
-            j+=1
-        return res
+                window_map[s[left]] -= 1
+                
+                if window_map[s[left]] < target_map[s[left]]:
+                    formed -= 1
+
+                if window_map[s[left]] == 0:
+                    del window_map[s[left]]
+                
+                
+                left += 1
+            
+    
+        return s[min_len[1]: min_len[2]+1]
