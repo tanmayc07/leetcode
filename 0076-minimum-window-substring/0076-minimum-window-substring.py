@@ -2,11 +2,12 @@ class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if not s or not t or len(s) < len(t):
             return ""
+
         left = 0
         target_map = Counter(t)
         window_map = Counter()
         formed = 0
-        min_len = (len(s), 0, 0)
+        min_len = (float("inf"), 0, 0)
         result = ""
 
         for right in range(len(s)):
@@ -31,4 +32,4 @@ class Solution:
                 left += 1
             
     
-        return s[min_len[1]: min_len[2]+1]
+        return s[min_len[1]: min_len[2]+1] if min_len[0] != float("inf") else ""
