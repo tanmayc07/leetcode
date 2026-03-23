@@ -10,6 +10,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayc07/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanmayc07/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +46,8 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayc07/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 <!---LeetCode Topics End-->
