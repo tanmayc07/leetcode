@@ -7,6 +7,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/tanmayc07/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayc07/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanmayc07/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -32,6 +33,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/tanmayc07/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## String
@@ -49,5 +51,6 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/tanmayc07/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 <!---LeetCode Topics End-->
