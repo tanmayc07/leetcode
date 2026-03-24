@@ -1,11 +1,14 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        freq = {}
+        left = 0
+        right = len(numbers)-1
 
-        for i in range(len(numbers)):
-            if target - numbers[i] in freq:
-                return [freq[target-numbers[i]]+1, i+1]
+        while left < right:
+            sm = numbers[left] + numbers[right]
+            
+            if sm == target: return [left+1, right+1]
             else:
-                freq[numbers[i]] = i
+                if sm < target: left += 1
+                else: right -= 1 
         
         return [0, 0]
