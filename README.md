@@ -36,6 +36,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanmayc07/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/tanmayc07/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/tanmayc07/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -43,6 +44,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanmayc07/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/tanmayc07/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Sorting
@@ -73,4 +75,8 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayc07/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tanmayc07/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
