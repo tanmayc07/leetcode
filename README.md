@@ -43,6 +43,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0036-valid-sudoku](https://github.com/tanmayc07/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/tanmayc07/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayc07/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/tanmayc07/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0042-trapping-rain-water](https://github.com/tanmayc07/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/tanmayc07/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayc07/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +87,5 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayc07/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
