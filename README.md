@@ -14,6 +14,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayc07/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/tanmayc07/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayc07/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/tanmayc07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanmayc07/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Stack
@@ -43,6 +44,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0036-valid-sudoku](https://github.com/tanmayc07/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/tanmayc07/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/tanmayc07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## String
@@ -87,5 +89,6 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayc07/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/tanmayc07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
