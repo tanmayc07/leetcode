@@ -3,17 +3,22 @@ class Solution:
         col = defaultdict(set)
         box = defaultdict(set)
 
-        for i in range(9):
+        for i in range(len(board)):
             row = set()
-            for j in range(9):
-                val = board[i][j]
-                if val == ".": continue
-                if val in row: return False
-                if val in col[j]: return False
-                if val in box[(i//3, j//3)]: return False
+            for j in range(len(board)):
+                if board[i][j] != '.':
+                    if board[i][j] in row:
+                        return False
+                    
+                    if board[i][j] in col[j]:
+                        return False
+                    
+                    idx = (i//3, j//3)
+                    if board[i][j] in box[idx]:
+                        return False
 
-                row.add(val)
-                col[j].add(val)
-                box[(i//3, j//3)].add(val)
-
+                    row.add(board[i][j])
+                    col[j].add(board[i][j])
+                    box[idx].add(board[i][j])
+        
         return True
