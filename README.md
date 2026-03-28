@@ -12,6 +12,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0042-trapping-rain-water](https://github.com/tanmayc07/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayc07/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayc07/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/tanmayc07/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayc07/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tanmayc07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -66,6 +67,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmayc07/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayc07/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayc07/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,8 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0219-contains-duplicate-ii](https://github.com/tanmayc07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tanmayc07/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayc07/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
