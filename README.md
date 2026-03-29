@@ -57,6 +57,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0125-valid-palindrome](https://github.com/tanmayc07/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tanmayc07/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanmayc07/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
