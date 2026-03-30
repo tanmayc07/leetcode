@@ -101,4 +101,8 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayc07/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/tanmayc07/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 <!---LeetCode Topics End-->
