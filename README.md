@@ -8,6 +8,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/tanmayc07/leetcode/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/tanmayc07/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/tanmayc07/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tanmayc07/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/tanmayc07/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -97,6 +98,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/tanmayc07/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayc07/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayc07/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/tanmayc07/leetcode/tree/main/0704-binary-search/) | Easy |
