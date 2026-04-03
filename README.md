@@ -103,6 +103,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0035-search-insert-position](https://github.com/tanmayc07/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayc07/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayc07/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/tanmayc07/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/tanmayc07/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -129,4 +130,8 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/tanmayc07/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/tanmayc07/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
