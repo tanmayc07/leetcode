@@ -3,28 +3,25 @@ import heapq
 class EventManager:
 
     def __init__(self, events: list[list[int]]):
-        self.active = {}
+        self.mp = {}
         self.pq = []
-        for i in range(len(events)):
-            heapq.heappush_max(self.pq, [events[i][1], -events[i][0]])
-            self.active[events[i][0]] = events[i][1]
+
+        for e in events:
+            heapq.heappush(self.pq, [-e[1], e[0]])
+            self.mp[e[0]] = e[1]
 
     def updatePriority(self, eventId: int, newPriority: int) -> None:
-        self.active[eventId] = newPriority
-        heapq.heappush_max(self.pq, [newPriority, -eventId])
+        heapq.heappush(self.pq, [-newPriority, eventId])
+        self.mp[eventId] = newPriority
 
     def pollHighest(self) -> int:
         while self.pq:
-            pr, id = heapq.heappop_max(self.pq)
-            id = -id
-
-            if id in self.active and self.active[id]==pr:
-                del self.active[id]
-                return id
-        
+            pair = heapq.heappop(self.pq)
+            if pair[1] in self.mp and self.mp[pair[1]]==-pair[0]:
+                del self.mp[pair[1]]
+                return pair[1]
         return -1
-                
-        
+
 
 # Your EventManager object will be instantiated and called as such:
 # obj = EventManager(events)
