@@ -1,10 +1,11 @@
 class Solution:
     def countCommas(self, n: int) -> int:
-        total_commas = 0
+        cnt = 0
         divisor = 1000
 
         while n>=divisor:
-            total_commas += n-divisor+1
+            cnt += n-divisor+1
             divisor *= 1000
+        
+        return cnt
 
-        return total_commas
