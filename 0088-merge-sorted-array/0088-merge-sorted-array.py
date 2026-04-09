@@ -15,8 +15,10 @@ class Solution:
                 nums1[p] = nums1[r1]
                 r1 -= 1
             p -= 1
-
+        
         while r2 > -1:
             nums1[p] = nums2[r2]
             r2 -= 1
             p -= 1
+
+    
