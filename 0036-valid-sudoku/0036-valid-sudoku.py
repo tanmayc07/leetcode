@@ -5,20 +5,14 @@ class Solution:
 
         for i in range(len(board)):
             row = set()
-            for j in range(len(board)):
-                if board[i][j] != '.':
-                    if board[i][j] in row:
-                        return False
-                    
-                    if board[i][j] in col[j]:
-                        return False
-                    
-                    idx = (i//3, j//3)
-                    if board[i][j] in box[idx]:
-                        return False
+            for j in range(len(board[i])):
+                if board[i][j] != ".":
+                    if board[i][j] in row: return False
+                    if board[i][j] in col[j]: return False
+                    if board[i][j] in box[(i//3, j//3)]: return False
 
-                    row.add(board[i][j])
+                    row.add(board[i][j]) 
                     col[j].add(board[i][j])
-                    box[idx].add(board[i][j])
-        
+                    box[(i//3,j//3)].add(board[i][j])
+
         return True
