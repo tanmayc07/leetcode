@@ -25,6 +25,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0229-majority-element-ii](https://github.com/tanmayc07/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/tanmayc07/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/tanmayc07/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/tanmayc07/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanmayc07/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Stack
@@ -116,6 +117,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayc07/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmayc07/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/tanmayc07/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/tanmayc07/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
