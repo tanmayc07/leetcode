@@ -122,6 +122,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0074-search-a-2d-matrix](https://github.com/tanmayc07/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayc07/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayc07/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0367-valid-perfect-square](https://github.com/tanmayc07/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmayc07/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/tanmayc07/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/tanmayc07/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -141,6 +142,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/tanmayc07/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/tanmayc07/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tanmayc07/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/tanmayc07/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Prefix Sum
