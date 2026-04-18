@@ -145,6 +145,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/tanmayc07/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tanmayc07/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/tanmayc07/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tanmayc07/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/tanmayc07/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Prefix Sum
