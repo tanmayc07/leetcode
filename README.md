@@ -33,6 +33,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanmayc07/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmayc07/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanmayc07/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0374-guess-number-higher-or-lower](https://github.com/tanmayc07/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/tanmayc07/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/tanmayc07/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanmayc07/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/tanmayc07/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanmayc07/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
