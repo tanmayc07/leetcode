@@ -31,6 +31,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0875-koko-eating-bananas](https://github.com/tanmayc07/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanmayc07/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanmayc07/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/tanmayc07/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmayc07/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanmayc07/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -142,6 +143,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayc07/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/tanmayc07/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
