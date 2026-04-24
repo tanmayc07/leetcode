@@ -20,10 +20,12 @@ class Solution:
         while list1 != None:
             curr.next = list1
             list1 = list1.next
+            curr = curr.next
 
         while list2 != None:
             curr.next = list2
             list2 = list2.next
+            curr = curr.next
         
         return head.next
 
