@@ -158,6 +158,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tanmayc07/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/tanmayc07/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tanmayc07/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/tanmayc07/leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
@@ -198,6 +199,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tanmayc07/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmayc07/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/tanmayc07/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tanmayc07/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -208,6 +210,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tanmayc07/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/tanmayc07/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/tanmayc07/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/tanmayc07/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
