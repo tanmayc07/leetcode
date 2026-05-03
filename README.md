@@ -86,6 +86,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0424-longest-repeating-character-replacement](https://github.com/tanmayc07/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/tanmayc07/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/tanmayc07/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmayc07/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanmayc07/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sorting
@@ -214,4 +215,8 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0021-merge-two-sorted-lists](https://github.com/tanmayc07/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/tanmayc07/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/tanmayc07/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/tanmayc07/leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
