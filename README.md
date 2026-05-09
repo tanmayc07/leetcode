@@ -163,6 +163,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0002-add-two-numbers](https://github.com/tanmayc07/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/tanmayc07/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tanmayc07/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanmayc07/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/tanmayc07/leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanmayc07/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanmayc07/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -213,6 +214,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0143-reorder-list](https://github.com/tanmayc07/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/tanmayc07/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tanmayc07/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanmayc07/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/tanmayc07/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanmayc07/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanmayc07/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
