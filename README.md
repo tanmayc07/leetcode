@@ -46,6 +46,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0682-baseball-game](https://github.com/tanmayc07/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/tanmayc07/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanmayc07/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanmayc07/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0143-reorder-list](https://github.com/tanmayc07/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayc07/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanmayc07/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0206-reverse-linked-list](https://github.com/tanmayc07/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanmayc07/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/tanmayc07/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanmayc07/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanmayc07/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanmayc07/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
