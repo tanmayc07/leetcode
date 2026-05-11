@@ -36,6 +36,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmayc07/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanmayc07/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/tanmayc07/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/tanmayc07/leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0657-robot-return-to-origin](https://github.com/tanmayc07/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/tanmayc07/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanmayc07/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/tanmayc07/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
