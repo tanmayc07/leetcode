@@ -6,25 +6,13 @@
 #         self.right = right
 class Solution:
     def bstToGst(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        ino = []
+        self.s = 0
         def inord(root):
             if not root: return
-            inord(root.left)
-            ino.append(root.val)
             inord(root.right)
+            self.s += root.val
+            root.val = self.s
+            inord(root.left)
 
         inord(root)
-        ts, cur = sum(ino), 0
-        mp = {}
-        for i in range(len(ino)):
-            mp[ino[i]] = ts - cur
-            cur += ino[i]
-        
-        def ino(root):
-            if not root: return
-            ino(root.left)
-            root.val = mp[root.val]
-            ino(root.right)
-        
-        ino(root)
         return root
