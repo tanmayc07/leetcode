@@ -242,17 +242,21 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
