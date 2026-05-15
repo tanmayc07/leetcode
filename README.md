@@ -249,6 +249,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tanmayc07/leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/tanmayc07/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanmayc07/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -258,6 +259,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tanmayc07/leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanmayc07/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -272,10 +274,12 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tanmayc07/leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/tanmayc07/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanmayc07/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tanmayc07/leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 <!---LeetCode Topics End-->
