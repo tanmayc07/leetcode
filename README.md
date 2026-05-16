@@ -93,6 +93,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0796-rotate-string](https://github.com/tanmayc07/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmayc07/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanmayc07/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3856-trim-trailing-vowels](https://github.com/tanmayc07/leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
