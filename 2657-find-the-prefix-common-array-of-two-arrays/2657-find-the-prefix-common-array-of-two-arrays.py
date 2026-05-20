@@ -1,12 +1,11 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
-        m = defaultdict(int)
+        s1 = set()
+        s2 = set()
         ans = []
         for i in range(len(A)):
-            m[A[i]] += 1
-            m[B[i]] += 1
-            cnt = 0
-            for k, v in m.items():
-                if v==2: cnt += 1
-            ans.append(cnt)
+            s1.add(A[i])
+            s2.add(B[i])
+            c = len(s1.intersection(s2))
+            ans.append(c)
         return ans
