@@ -38,6 +38,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanmayc07/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanmayc07/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/tanmayc07/leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmayc07/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tanmayc07/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0567-permutation-in-string](https://github.com/tanmayc07/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/tanmayc07/leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmayc07/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tanmayc07/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/tanmayc07/leetcode/tree/main/0078-subsets/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmayc07/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
