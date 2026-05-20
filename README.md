@@ -257,6 +257,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tanmayc07/leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -267,6 +268,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tanmayc07/leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -282,6 +284,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/tanmayc07/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tanmayc07/leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -290,6 +293,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tanmayc07/leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 <!---LeetCode Topics End-->
