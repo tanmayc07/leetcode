@@ -41,6 +41,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/tanmayc07/leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmayc07/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tanmayc07/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3668-restore-finishing-order](https://github.com/tanmayc07/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/tanmayc07/leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmayc07/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tanmayc07/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3668-restore-finishing-order](https://github.com/tanmayc07/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
