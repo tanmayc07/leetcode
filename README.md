@@ -89,6 +89,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmayc07/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/tanmayc07/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanmayc07/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/tanmayc07/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/tanmayc07/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/tanmayc07/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
@@ -104,6 +105,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmayc07/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanmayc07/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanmayc07/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/tanmayc07/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/tanmayc07/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/tanmayc07/leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Sorting
