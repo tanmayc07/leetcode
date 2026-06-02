@@ -36,6 +36,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanmayc07/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmayc07/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmayc07/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmayc07/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanmayc07/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanmayc07/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -119,6 +120,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0088-merge-sorted-array](https://github.com/tanmayc07/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/tanmayc07/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/tanmayc07/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmayc07/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/tanmayc07/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -181,6 +183,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayc07/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmayc07/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmayc07/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/tanmayc07/leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 ## Math
 | Problem Name | Difficulty |
