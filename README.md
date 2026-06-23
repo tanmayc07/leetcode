@@ -128,6 +128,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0042-trapping-rain-water](https://github.com/tanmayc07/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayc07/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayc07/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tanmayc07/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0078-subsets](https://github.com/tanmayc07/leetcode/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/tanmayc07/leetcode/tree/main/0268-missing-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmayc07/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tanmayc07/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,4 +332,8 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayc07/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tanmayc07/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 <!---LeetCode Topics End-->
