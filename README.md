@@ -7,6 +7,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/tanmayc07/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tanmayc07/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/tanmayc07/leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmayc07/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -142,6 +143,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/tanmayc07/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tanmayc07/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/tanmayc07/leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmayc07/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -182,6 +184,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/tanmayc07/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayc07/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmayc07/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmayc07/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
