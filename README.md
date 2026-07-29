@@ -289,6 +289,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanmayc07/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayc07/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
@@ -306,6 +307,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/tanmayc07/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
@@ -333,6 +335,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanmayc07/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayc07/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
