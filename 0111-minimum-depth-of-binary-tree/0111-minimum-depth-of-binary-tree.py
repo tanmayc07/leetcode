@@ -7,13 +7,22 @@
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         if not root: return 0
+        
+        q = deque([root])
+        depth = 0
 
-        if not root.left and not root.right: return 1
+        while q:
+            ls = len(q)
 
-        leftH = self.minDepth(root.left)
-        rightH = self.minDepth(root.right)
+            for _ in range(ls):
+                node = q.popleft()
 
-        if not root.left or not root.right:
-            return 1 + max(leftH, rightH)
+                if not node.left and not node.right:
+                    return depth + 1
 
-        return 1 + min(leftH, rightH)
+                if node.left: q.append(node.left)
+                if node.right: q.append(node.right)
+
+            depth += 1
+
+        return 0
