@@ -204,6 +204,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanmayc07/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanmayc07/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tanmayc07/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tanmayc07/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanmayc07/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tanmayc07/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/tanmayc07/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -374,5 +375,6 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tanmayc07/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tanmayc07/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 <!---LeetCode Topics End-->
