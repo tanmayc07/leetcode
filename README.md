@@ -295,6 +295,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -314,6 +315,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -343,6 +345,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayc07/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -360,6 +363,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanmayc07/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
