@@ -28,6 +28,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayc07/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tanmayc07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/tanmayc07/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/tanmayc07/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/tanmayc07/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0525-contiguous-array](https://github.com/tanmayc07/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0682-baseball-game](https://github.com/tanmayc07/leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -212,6 +213,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayc07/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/tanmayc07/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/tanmayc07/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/tanmayc07/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Counting
