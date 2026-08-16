@@ -7,28 +7,24 @@ class Solution:
         visited = set()
         counts = 0
 
-        def dfs(r, c):
-            if (
-                r>=rows or
-                c>=cols or
-                r<0 or
-                c<0 or
-                (r, c) in visited or
-                grid[r][c] == '0'
-            ):
-                return
-
+        def bfs(r, c):
             visited.add((r, c))
-            
-            dfs(r+1, c)
-            dfs(r, c+1)
-            dfs(r-1, c)
-            dfs(r, c-1)
+            q = deque([(r, c)])
+
+            while q:
+                row, col = q.popleft()
+
+                for dr, dc in [(0,1),(0,-1),(1,0),(-1,0)]:
+                    nr, nc = row+dr, col+dc
+                    if 0<=nr<rows and 0<=nc<cols and grid[nr][nc] == '1' and (nr, nc) not in visited:
+                        visited.add((nr, nc))
+                        q.append((nr,nc))
+
 
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == '1' and (r, c) not in visited:
-                    dfs(r, c)
+                    bfs(r, c)
                     counts += 1
 
         return counts
