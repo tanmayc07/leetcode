@@ -4,11 +4,10 @@ class Solution:
             return 0
 
         rows, cols = len(grid), len(grid[0])
-        visited = set()
         counts = 0
 
         def bfs(r, c):
-            visited.add((r, c))
+            grid[r][c] = '0'
             q = deque([(r, c)])
 
             while q:
@@ -16,14 +15,14 @@ class Solution:
 
                 for dr, dc in [(0,1),(0,-1),(1,0),(-1,0)]:
                     nr, nc = row+dr, col+dc
-                    if 0<=nr<rows and 0<=nc<cols and grid[nr][nc] == '1' and (nr, nc) not in visited:
-                        visited.add((nr, nc))
+                    if 0<=nr<rows and 0<=nc<cols and grid[nr][nc] == '1':
+                        grid[nr][nc] = '0' 
                         q.append((nr,nc))
 
 
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c] == '1' and (r, c) not in visited:
+                if grid[r][c] == '1':
                     bfs(r, c)
                     counts += 1
 
