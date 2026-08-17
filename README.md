@@ -33,6 +33,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0268-missing-number](https://github.com/tanmayc07/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0525-contiguous-array](https://github.com/tanmayc07/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0682-baseball-game](https://github.com/tanmayc07/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0695-max-area-of-island](https://github.com/tanmayc07/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/tanmayc07/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/tanmayc07/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanmayc07/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -141,12 +142,14 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0036-valid-sudoku](https://github.com/tanmayc07/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/tanmayc07/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/tanmayc07/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/tanmayc07/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanmayc07/leetcode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanmayc07/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/tanmayc07/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/tanmayc07/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +331,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0543-diameter-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/tanmayc07/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0695-max-area-of-island](https://github.com/tanmayc07/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -381,6 +385,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0200-number-of-islands](https://github.com/tanmayc07/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0695-max-area-of-island](https://github.com/tanmayc07/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/tanmayc07/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
