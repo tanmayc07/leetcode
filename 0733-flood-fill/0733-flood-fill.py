@@ -3,24 +3,29 @@ class Solution:
         rows, cols = len(image), len(image[0])
         visited = set()
 
-        def dfs(r, c, o):
-            if (
-                r<0 or 
-                r>=rows or
-                c<0 or
-                c>=cols or
-                image[r][c] != o or
-                (r, c) in visited
-            ):
-                return
-            
+        def bfs(r, c, o):
+            q = deque([(r, c)])
             visited.add((r, c))
             image[r][c] = color
+            
+            while q:
+                row, col = q.popleft()
 
-            dfs(r+1, c, o)
-            dfs(r-1, c, o)
-            dfs(r, c+1, o)
-            dfs(r, c-1, o)
+                for dr, dc in [(1,0),(-1,0),(0,1),(0,-1)]:
+                    nr, nc = row+dr, col+dc
 
-        dfs(sr, sc, image[sr][sc])
+                    if (
+                        nr>=0 and 
+                        nr<rows and
+                        nc>=0 and
+                        nc<cols and
+                        image[nr][nc] == o and
+                        (nr, nc) not in visited
+                    ):
+                        visited.add((nr, nc))
+                        image[nr][nc] = color
+                        q.append((nr, nc))
+
+
+        bfs(sr, sc, image[sr][sc])
         return image
