@@ -301,6 +301,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/tanmayc07/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/tanmayc07/leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -324,6 +325,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/tanmayc07/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/tanmayc07/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -348,6 +350,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/tanmayc07/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/tanmayc07/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0695-max-area-of-island](https://github.com/tanmayc07/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tanmayc07/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -383,6 +386,7 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | [0538-convert-bst-to-greater-tree](https://github.com/tanmayc07/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/tanmayc07/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/tanmayc07/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/tanmayc07/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/tanmayc07/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/tanmayc07/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -434,4 +438,8 @@ Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayc07/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/tanmayc07/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
